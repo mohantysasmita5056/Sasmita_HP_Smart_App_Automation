@@ -60,7 +60,7 @@ Uses clipboard paste + pywinauto to enter the OTP and submit verification.
 ## 📁 **Project Structure**
 
 ```
-hp_smart_app/
+HP_SMART_APP/
 │
 ├── hp_smart_otp_gen.py        # Main end-to-end automation script
 ├── README.md               # Project documentation
@@ -156,4 +156,5 @@ LAST_NAMES = ["Jens","Mohans","Pandit","kiren"]
 * Robust waits for UI elements & inbox polling
 * Modular functions + pytest fixtures
 * Clipboard-based OTP entry ensures accuracy
+
 
